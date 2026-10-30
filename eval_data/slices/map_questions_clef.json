@@ -1,0 +1,42 @@
+{
+  "correct": {
+    "type": "noul",
+    "instructions": "Decide whether the student's selected multiple-choice answer is the correct answer to the question. Judge the selected answer, not the quality of the explanation.",
+    "criteria": {
+      "true": "The selected answer matches the mathematically correct option.",
+      "false": "The selected answer is not the correct option."
+    }
+  },
+  "misconception": {
+    "type": "choice",
+    "instructions": "Classify the misconception in the student's explanation using this reduced MAP taxonomy (24 most common labels + none + other). Choose none if the explanation is correct or does not match a listed misconception. Choose other for a known but rare MAP code.",
+    "criteria": {
+      "Incomplete": "Stopped before finishing a required step; the method is otherwise on track but unfinished.",
+      "Additive": "Treated a multiplicative or proportional relationship as if it were additive.",
+      "Duplication": "Counted the same quantity twice or duplicated a step.",
+      "Subtraction": "Subtracted when the situation required a different operation, or subtracted in the wrong order.",
+      "Positive": "Dropped a negative sign or treated a signed quantity as positive.",
+      "Wrong_term": "Used the wrong term, addend, factor, or variable from the question.",
+      "Irrelevant": "The explanation is off-topic or does not address the mathematics of the question.",
+      "Wrong_fraction": "Wrote or selected the wrong fraction (MAP label Wrong_fraction).",
+      "Inversion": "Inverted a fraction, ratio, or difference when it should not have been inverted.",
+      "Mult": "Multiplied when the situation required a different operation.",
+      "Denominator_only_change": "Changed only the denominator of a fraction (or only the numerator) instead of an equivalent transformation.",
+      "Whole_numbers_larger": "Assumed a whole number is larger than a fraction (or vice versa) without comparing values.",
+      "Adding_across": "Added numerators with numerators and denominators with denominators, or added across place values incorrectly.",
+      "WNB": "Whole-number bias: interpreted a fraction using whole-number thinking.",
+      "Tacking": "Tacked an extra unmatched digit, term, or unit onto an otherwise reasonable answer.",
+      "Unknowable": "Claimed the answer cannot be determined when it can, or invented missing information.",
+      "Wrong_Fraction": "Wrote or selected the wrong fraction (MAP label Wrong_Fraction).",
+      "SwapDividend": "Swapped dividend and divisor.",
+      "Scale": "Used the wrong scale factor or failed to scale a diagram / unit consistently.",
+      "Not_variable": "Treated a variable as a specific number, or treated a number as if it were a variable.",
+      "Firstterm": "Used only the first term or first piece of given information and ignored the rest.",
+      "Adding_terms": "Added terms that should have been multiplied, subtracted, or otherwise combined differently.",
+      "Multiplying_by_4": "Multiplied by 4 (or another salient number in the item) without a valid reason.",
+      "FlipChange": "Flipped a fraction or ratio incorrectly when changing operations (e.g. invert-and-multiply misuse).",
+      "none": "No labelled MAP misconception. The explanation is correct, or it is neither correct nor a known misconception.",
+      "other": "A labelled MAP misconception that is not one of the 24 most common codes. Clef choice questions are capped at 26 candidates, so the rare tail is collapsed here."
+    }
+  }
+}

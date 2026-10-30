@@ -1,0 +1,92 @@
+{
+  "typesafe": {
+    "dialogue_rows": 599,
+    "unique_qids": 394,
+    "failed_unique": 0,
+    "correctness_unique": {
+      "n": 394,
+      "accuracy": 0.6446700507614214,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 254,
+      "fp": 140,
+      "fn": 0
+    },
+    "pred_true_rate_unique": 0.3553299492385787,
+    "mean_p_true_unique": 0.39713197969543146
+  },
+  "gemini": {
+    "dialogue_rows": 599,
+    "unique_qids": 394,
+    "failed_unique": 0,
+    "correctness_unique": {
+      "n": 394,
+      "accuracy": 0.9568527918781726,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 377,
+      "fp": 17,
+      "fn": 0
+    },
+    "pred_true_rate_unique": 0.04314720812182741,
+    "mean_p_true_unique": 0.04398477157360406
+  },
+  "clef_9b": {
+    "dialogue_rows": 599,
+    "unique_qids": 394,
+    "failed_unique": 0,
+    "correctness_unique": {
+      "n": 394,
+      "accuracy": 0.3477157360406091,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 137,
+      "fp": 257,
+      "fn": 0
+    },
+    "pred_true_rate_unique": 0.6522842639593909,
+    "mean_p_true_unique": 0.5935232387896714
+  },
+  "clef_27b": {
+    "dialogue_rows": 599,
+    "unique_qids": 394,
+    "failed_unique": 0,
+    "correctness_unique": {
+      "n": 394,
+      "accuracy": 0.8527918781725888,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 336,
+      "fp": 58,
+      "fn": 0
+    },
+    "pred_true_rate_unique": 0.14720812182741116,
+    "mean_p_true_unique": 0.19736013602950875
+  },
+  "qwen": {
+    "dialogue_rows": 599,
+    "unique_qids": 394,
+    "failed_unique": 228,
+    "correctness_unique": {
+      "n": 166,
+      "accuracy": 0.30120481927710846,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 50,
+      "fp": 116,
+      "fn": 0
+    },
+    "pred_true_rate_unique": 0.6987951807228916,
+    "mean_p_true_unique": 0.6478915662650602
+  }
+}

@@ -1,0 +1,88 @@
+task,id,gt,pred,p_true,map_category,gt_misconception,pred_misconception,question,student_answer
+correct,mathdial_6000031,False,True,1.0,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000031,False,True,1.0,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000031,False,True,1.0,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000031,False,True,1.0,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_5001114,False,True,1.0,,,,"An organization trying to save endangered species of turtles has taken twice more hawksbill turtles than the number of green turtles into a conservation center. If the number of green turtles is 800, calculate the number of turtles that hav","The number of hawksbill turtles is twice more than the number of green turtles, meaning there are 2+1 = 3 parts in total.
+If the number of green turtles is 800, one part is equal to 800/1 = 800 turtles.
+Since three parts represent the total"
+correct,mathdial_5001037,False,True,1.0,,,,Patty decides that to convince her brother and sister to do her chores in exchange for cookies. Patty agrees to give them 3 cookies for every chore they do. Each kid normally has 4 chores to do per week. Patty has $15 to buy cookies. Each p,"Each kid will earn 3 x 4 = 12 cookies per week.
+Patty needs to buy 15/3 = 5 packs of cookies.
+Each pack of cookies contains 24 cookies, so Patty will have a total of 24 x 5 = 120 cookies.
+For each week, Patty will need to give 2 kids a tota"
+correct,mathdial_5000185,False,True,1.0,,,,"Jay has decided to save money from his paycheck every week. He has decided that he will increase the amount he saves each week by 10 dollars. If he started by saving 20 dollars this week, how much will he have saved in a month from now?","In one week, Jay saves 20 dollars.
+In the second week, he saves 20+10 = 30 dollars.
+In the third week, he saves 30+10 = 40 dollars.
+In the fourth week, he saves 40+10 = 50 dollars.
+So in a month, which is four weeks, Jay saves 20+30+40+50 ="
+correct,mathdial_5000629,False,True,1.0,,,,"You can lower the price by 20% if you buy more than fifteen units of iPhone cases. If you pay $500 to buy 18 units, what is the original price?","First, let's find the price per unit after the 20% discount:
+If the original price is x, then the discounted price is 0.8x (since 20% off is the same as multiplying by 0.8). We know that this discounted price is what we paid for 18 units, s"
+correct,mathdial_5000527,False,True,1.0,,,,"A certain store sells computer accessories and equipment. Due to a fire outbreak in one of the factories, the price of RAM increased by 30%. After two years, the price stabilized and finally fell by 20% from what it has risen. What is the c","After the fire outbreak, the price of RAM increased by 30%, which means it increased by 30/100 x 50 = $15.
+So, the price of RAM after the fire outbreak was $50 + $15 = $65.
+Then, the price fell by 20% from what it has risen, which means it "
+correct,mathdial_5000079,False,True,1.0,,,,"A man is returning home from work and trying to decide which route to take.  His first route option includes 3 stoplights.  This route will take him 10 minutes if all three lights are green, but each light that is red will add 3 minutes to ","If all three lights are green, the trip will take 10 minutes.
+If one light is red, the trip will take 10 + 3 = 13 minutes.
+If two lights are red, the trip will take 10 + 3 + 3 = 16 minutes.
+If all three lights are red, the trip will take 10"
+correct,mathdial_5000067,False,True,1.0,,,,"A new movie gets released and makes $120 million in the box office for its opening weekend.  It ends up making 3.5 times that much during its entire run.  If the production company gets to keep 60%, how much profit did they make if the movi","The movie made 120 x 3.5 = 420 million dollars during its entire run.
+The production company made 420 x 0.6 = 252 million dollars.
+The movie cost 60 million dollars to produce.
+So the profit made by the production company is 252 - 60 = 192 "
+correct,mathdial_5000831,False,True,1.0,,,,"There are 30 players on a football team. The coach has 8 liters of water. She pours 200 milliliters of water for every player so they can get hydrated. Unfortunately, there was a water spill and 250ml of water was spilled. How much water wa","The coach needs a total of 30 x 200 = 6000 ml of water for all the players.
+6000 ml is equal to 6 liters of water, so after pouring water for all the players, the coach used 6 liters of water.
+After the water spill, there was only 8 - 6 - 0"
+correct,mathdial_5000859,False,True,1.0,,,,"Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. Aft","On the fourth day, Chris holds his breath for 40 seconds.
+On the fifth day, Chris holds his breath for 50 seconds.
+On the sixth day, Chris holds his breath for 60 seconds.
+On the seventh day, Chris holds his breath for 70 seconds.
+On the ei"
+correct,mathdial_5000078,False,True,1.0,,,,"A year ago, the total cost of buying a lawnmower was 2/5 times less than the cost it goes for now. If the cost was $1800 a year ago, calculate how much it would cost Mr. Lucian to buy 4 such lawnmowers.","If the cost of the lawnmower was 2/5 times less a year ago, then it was 3/5 times the current cost. Let's find the current cost first.
+If the cost a year ago was $1800, then 3/5 times the current cost is 1800, so we have:
+(3/5)x = 1800
+Mult"
+correct,mathdial_5000759,False,True,1.0,,,,"James catches 3 kinds of fish.  He catches 200 pounds of trout,  50% more pounds of salmon, and twice as much Tuna.  How many pounds of fish did he catch?","James caught 50% more pounds of salmon than trout, which means he caught 200 x 0.5 = 100 more pounds of salmon.
+So, James caught 200 + 100 = 300 pounds of salmon.
+He also caught twice as much tuna as trout, which means he caught 200 x 2 = 4"
+correct,mathdial_5000859,False,True,1.0,,,,"Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. Aft","On the fourth day, Chris holds his breath for 40 seconds.
+On the fifth day, Chris holds his breath for 50 seconds.
+On the sixth day, Chris holds his breath for 60 seconds.
+On the seventh day, Chris holds his breath for 70 seconds.
+On the ei"
+correct,mathdial_5000751,False,True,0.95,,,,Each dandelion produces 300 seeds. 1/3rd of the seeds land in water and die. 1/6 of the starting number are eaten by insects. Half the remainder sprout and are immediately eaten. How many dandelions survive long enough to flower?,"Starting with 300 seeds, 1/3rd land in water and die, so 2/3 are left. 200 seeds are left.
+1/6 of the starting number are eaten by insects, so (1/6) x 300 = 50 seeds are eaten. Thus, 200 - 50 = 150 are left.
+Half of the remainder sprout, so"
+correct,mathdial_5000155,False,True,1.0,,,,"Kevin holds the world record for eating the biggest quantity of hot wings in 8 minutes. He can eat 64 wings without stopping. Alan, a boy who loves hot wings, wants to beat Kevin's record.  He is currently able to eat 5 hot wings per minute","Kevin can eat 64/8 = 8 hot wings per minute.
+To beat Kevin's record, Alan needs to eat more than 8 hot wings per minute.
+He needs to eat 64 hot wings / 8 minutes = 8 hot wings per minute to match Kevin's record.
+So, Alan needs to eat 8 - 5 "
+correct,mathdial_5000982,False,True,0.98,,,,James has 20 pairs of red socks and half as many black socks.  He has twice as many white socks as red and black combined.  How many total socks does he have combined?,"James has 20/2 = 10 pairs of black socks.
+James has a total of 20 + 10 = 30 pairs of red and black socks.
+James has twice as many white socks as red and black combined, so he has 2 x 30 = 60 white socks.
+Each pair of socks is two socks, so "
+correct,mathdial_5000413,False,True,1.0,,,,James decides to try and collect rare artifacts in the field.  He spends 6 months researching before going on a 2-year-long expedition for his first find.  The second artifact takes 3 times as long for the research and discovery.  How long ,"For the first artifact, James spent 6 months researching and 2 years on the expedition, which is 2 x 12 = 24 months.
+So, it took him a total of 6 + 24 = 30 months to find the first artifact.
+For the second artifact, he spent 3 times as long"
+correct,mathdial_5000517,False,True,1.0,,,,"If there are four times as many apples as oranges in a certain fruit basket and the basket has 15 apples, how many fruits would Emiliano have consumed if he eats 2/3 of each fruit's quantity in the basket?","If there are four times as many apples as oranges in the basket, and the basket has 15 apples, then there are 15/4 = 3.75 oranges.
+Emiliano eats 2/3 of each fruit's quantity in the basket, which means he eats 2/3 x 15 = 10 apples.
+He also e"
+correct,mathdial_6000031,False,True,1.0,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"

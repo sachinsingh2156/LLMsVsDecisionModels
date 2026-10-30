@@ -1,0 +1,301 @@
+task,id,gt,pred,p_true,map_category,gt_misconception,pred_misconception,question,student_answer
+correct,mathdial_6000069,False,True,0.8539127529517043,,,,"Kenny is selling his Pokemon cards to buy a ticket to an amusement park, which costs $100. He has a collection of cards and plans to sell them for $1.5 each. He keeps 1/3 of them and gets to go to the amusement park with $50 in spending cas","Let x be the total number of cards Kenny started with.
+He kept 1/3 of them, so he sold 2/3 of them, which is 2/3x.
+He sold them for $1.5 each, so he earned 1.5(2/3x) = 3x/2 dollars.
+He wants to end up with $50 spending cash, so he needs to "
+correct,mathdial_6000043,False,True,0.8289388083214156,,,,"Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how","Sam had 5 days to sell bread because he was closed on Monday and Friday.
+He sold a total of 20 + 15 + 12 + 18 = 65 crates of bread from Tuesday to Thursday.
+Adding the 20 crates he sold over the weekend, Sam sold a total of 65 + 20 = 85 cra"
+correct,mathdial_6000069,False,True,0.8539127529517043,,,,"Kenny is selling his Pokemon cards to buy a ticket to an amusement park, which costs $100. He has a collection of cards and plans to sell them for $1.5 each. He keeps 1/3 of them and gets to go to the amusement park with $50 in spending cas","Let x be the total number of cards Kenny started with.
+He kept 1/3 of them, so he sold 2/3 of them, which is 2/3x.
+He sold them for $1.5 each, so he earned 1.5(2/3x) = 3x/2 dollars.
+He wants to end up with $50 spending cash, so he needs to "
+correct,mathdial_6000031,False,True,0.8820219914046175,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000031,False,True,0.8820219914046175,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000058,False,True,0.5746334887513667,,,,3 customers were kicked out of the Walmart for refusing to wear masks. A number equals to four times that many minus 5 were kicked out for shoplifting.  Three times the number of shoplifters were kicked out for physical violence over goods ,"Let's first find the number of shoplifters: 3 customers + (3 x 4 - 5) shoplifters = 10 shoplifters
+Now let's find the number of customers kicked out for violence: 10 shoplifters x 3 = 30 customers
+The total number of customers kicked out is"
+correct,mathdial_6000043,False,True,0.8289388083214156,,,,"Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how","Sam had 5 days to sell bread because he was closed on Monday and Friday.
+He sold a total of 20 + 15 + 12 + 18 = 65 crates of bread from Tuesday to Thursday.
+Adding the 20 crates he sold over the weekend, Sam sold a total of 65 + 20 = 85 cra"
+correct,mathdial_6000043,False,True,0.8289388083214156,,,,"Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how","Sam had 5 days to sell bread because he was closed on Monday and Friday.
+He sold a total of 20 + 15 + 12 + 18 = 65 crates of bread from Tuesday to Thursday.
+Adding the 20 crates he sold over the weekend, Sam sold a total of 65 + 20 = 85 cra"
+correct,mathdial_6000069,False,True,0.8539127529517043,,,,"Kenny is selling his Pokemon cards to buy a ticket to an amusement park, which costs $100. He has a collection of cards and plans to sell them for $1.5 each. He keeps 1/3 of them and gets to go to the amusement park with $50 in spending cas","Let x be the total number of cards Kenny started with.
+He kept 1/3 of them, so he sold 2/3 of them, which is 2/3x.
+He sold them for $1.5 each, so he earned 1.5(2/3x) = 3x/2 dollars.
+He wants to end up with $50 spending cash, so he needs to "
+correct,mathdial_6000069,False,True,0.8539127529517043,,,,"Kenny is selling his Pokemon cards to buy a ticket to an amusement park, which costs $100. He has a collection of cards and plans to sell them for $1.5 each. He keeps 1/3 of them and gets to go to the amusement park with $50 in spending cas","Let x be the total number of cards Kenny started with.
+He kept 1/3 of them, so he sold 2/3 of them, which is 2/3x.
+He sold them for $1.5 each, so he earned 1.5(2/3x) = 3x/2 dollars.
+He wants to end up with $50 spending cash, so he needs to "
+correct,mathdial_6000031,False,True,0.8820219914046175,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000058,False,True,0.5746334887513667,,,,3 customers were kicked out of the Walmart for refusing to wear masks. A number equals to four times that many minus 5 were kicked out for shoplifting.  Three times the number of shoplifters were kicked out for physical violence over goods ,"Let's first find the number of shoplifters: 3 customers + (3 x 4 - 5) shoplifters = 10 shoplifters
+Now let's find the number of customers kicked out for violence: 10 shoplifters x 3 = 30 customers
+The total number of customers kicked out is"
+correct,mathdial_6000069,False,True,0.8539127529517043,,,,"Kenny is selling his Pokemon cards to buy a ticket to an amusement park, which costs $100. He has a collection of cards and plans to sell them for $1.5 each. He keeps 1/3 of them and gets to go to the amusement park with $50 in spending cas","Let x be the total number of cards Kenny started with.
+He kept 1/3 of them, so he sold 2/3 of them, which is 2/3x.
+He sold them for $1.5 each, so he earned 1.5(2/3x) = 3x/2 dollars.
+He wants to end up with $50 spending cash, so he needs to "
+correct,mathdial_6000031,False,True,0.8820219914046175,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_5000348,False,True,0.8914335771643437,,,,"Willow’s daughter had a slumber party with 3 of her friends.  For breakfast, they wanted pancakes.  Willow’s pancake recipe makes 1 serving of 4 pancakes.  Each of the girls wanted a serving and a half of pancakes.  Willow’s son wanted 3 se","Each serving of pancakes makes 4 pancakes.
+Each girl wants 1.5 servings of pancakes, so the total number of pancakes for the girls is 4 x 1.5 x 3 = 18 pancakes.
+Willow's son wants 3 servings of pancakes, so the total number of pancakes for "
+correct,mathdial_5000212,False,True,0.8543993677396563,,,,Frank is walking through a corn maze. He has already spent 45 minutes inside. He has done 4 other corn mazes and finished those in 50 minutes on average. How much longer can he spend inside if he wants to ensure that his average doesn't go ,"Frank has completed a total of 5 corn mazes (including the current one), so he has spent a total of 45 + 50(4) = 245 minutes in the mazes.
+To keep his average below 60 minutes per maze, he can spend a total of 60(5) - 245 = 55 minutes in th"
+correct,mathdial_5000381,False,True,0.5117166047041654,,,,"Jim buys a wedding ring for $10,000.  He gets his wife a ring that is twice that much and sells the first one for half its value.  How much is he out of pocket?","The wife's ring is twice the price of Jim's ring, so it costs 2 x $10,000 = $20,000.
+Jim sells his ring for half the price he paid, so he gets $10,000 / 2 = $5,000.
+Jim is out of pocket for the wife's ring minus the money he made from selli"
+correct,mathdial_5000256,False,True,0.8714748610635069,,,,"Maya wants to learn how to lift and right now she can only lift a fourth of what America can. America can lift 240 pounds. As Maya grows stronger, she can add 10 more pounds to what she previously could lift. America follows this and now sh","Maya can lift 240/4 = 60 pounds initially.
+America added 300-240 = 60 pounds to her initial lift.
+Maya can add 10 x (300-240)/10 = 60 pounds to her initial lift.
+Thus, Maya can lift 240/2 = 120 pounds when she reaches her peak.
+Therefore, M"
+correct,mathdial_5001037,False,True,0.9485372345673924,,,,Patty decides that to convince her brother and sister to do her chores in exchange for cookies. Patty agrees to give them 3 cookies for every chore they do. Each kid normally has 4 chores to do per week. Patty has $15 to buy cookies. Each p,"Each kid will earn 3 x 4 = 12 cookies per week.
+Patty needs to buy 15/3 = 5 packs of cookies.
+Each pack of cookies contains 24 cookies, so Patty will have a total of 24 x 5 = 120 cookies.
+For each week, Patty will need to give 2 kids a tota"
+correct,mathdial_5001073,False,True,0.7193836258234395,,,,"Each week Carina puts 20 more seashells in a jar than she did the week before. If there are 50 seashells in the jar this week, how many will there be in a month?","In the first week, there are 50 - 20 = 30 seashells in the jar.
+In the second week, there are 30 + 20 = 50 seashells in the jar.
+In the third week, there are 50 + 20 = 70 seashells in the jar.
+In the fourth week, there are 70 + 20 = 90 seas"
+correct,mathdial_5000025,False,True,0.8998277813740775,,,,"Loraine makes wax sculptures of animals. Large animals take four sticks of wax and small animals take two sticks. She made three times as many small animals as large animals, and she used 12 sticks of wax for small animals. How many sticks ","Let's call the number of large animals ""L"" and the number of small animals ""S"". We know that S = 3L (since she made three times as many small animals as large animals) and that 12 sticks of wax were used for small animals. Since each small "
+correct,mathdial_5000916,False,True,0.8344068863691763,,,,Julie works at a restaurant that pays her an hourly rate of $5. She works 8 hours a day and 6 days a week. How much is her monthly salary if she was not able to go to work for a day?,"Julie's daily earnings is 5 x 8 = $40.
+Her weekly earnings is 40 x 6 = $240.
+Since she was not able to go to work for a day, her weekly earnings is reduced by 40.
+So her new weekly earnings is 240 - 40 = $200.
+Her monthly earnings is 4 x 20"
+correct,mathdial_5001013,False,True,0.6540113533952943,,,,Aimee does a poll around her neighborhood and makes sure to get answers from 50% men and 50% women. She finds that 35% of women are in favor of shortening the school day by 30 minutes. 39 women in her poll opposed this idea. How many people,"If 35% of women are in favor of shortening the school day by 30 minutes, then 65% of women are against it. Since she interviewed 50% women, then 50%/2 = 25% of the total number of people she polled were women who opposed the idea.
+
+Let x be"
+correct,mathdial_5000721,False,True,0.9124361604769414,,,,"Sid takes $48 with him on a shopping trip to the mall.  He spent some of his money on computer accessories and another $8 on snacks. After these purchases, he only has $4 more than half of his original money left. How much did he spend on c","Let's call the amount Sid spent on computer accessories ""x"".
+After buying computer accessories and snacks, Sid has 48 - x - 8 = 40 - x dollars left.
+We know that this is $4 more than half of his original money, which was 48/2 = 24 dollars.
+"
+correct,mathdial_5000269,False,True,0.7065955179610504,,,,"Tonya has $150.00 on her credit card.  If she leaves any balance on her card at the end of the month, she is charged 20% interest.  If she makes a $50.00 payment on her card, what will be the new balance?","Tonya has a balance of $150.00 on her credit card.
+If she leaves any balance on her card, she will be charged 20% interest.
+So, the interest charged will be 20% of $150.00 = $30.00
+Therefore, the total amount due will be $150.00 + $30.00 = "
+correct,mathdial_5000185,False,True,0.9022656804095373,,,,"Jay has decided to save money from his paycheck every week. He has decided that he will increase the amount he saves each week by 10 dollars. If he started by saving 20 dollars this week, how much will he have saved in a month from now?","In one week, Jay saves 20 dollars.
+In the second week, he saves 20+10 = 30 dollars.
+In the third week, he saves 30+10 = 40 dollars.
+In the fourth week, he saves 40+10 = 50 dollars.
+So in a month, which is four weeks, Jay saves 20+30+40+50 ="
+correct,mathdial_5000647,False,True,0.9322068610768112,,,,John buys game loot boxes for $5 each.  The average value of items inside is $3.5.   He spends $40 on loot boxes.  What is the average amount he lost?,"Each loot box has an average loss of $5 - $3.5 = $1.5.
+To find how many loot boxes John bought, we need to divide the total amount spent by the price of each loot box: $40 / $5 = 8 loot boxes.
+So, the total amount John lost is $1.5 x 8 = $1"
+correct,mathdial_5000005,False,True,0.7541915394787425,,,,"Noah is a painter. He paints pictures and sells them at the park. He charges $60 for a large painting and $30 for a small painting. Last month he sold eight large paintings and four small paintings. If he sold twice as much this month, how ","Noah earned 8 x $60 = $480 for the large paintings last month.
+He also earned 4 x $30 = $120 for the small paintings last month.
+So his total sales last month was $480 + $120 = $600.
+If he sold twice as much this month, he sold 2 x 8 = 16 l"
+correct,mathdial_5000622,False,True,0.6433292938858967,,,,"Ms. Jones got thank you cards from 30% of her class. 1/3 of these contained a gift card for $10. If she got $50 in gift cards, how many students were in her class?","Let x be the total number of students in Ms. Jones' class.
+30% of the class is 0.3x.
+So, she got thank you cards from 0.3x students.
+1/3 of these cards contained a $10 gift card, so the total amount of money she received is (0.3x)(1/3)($10)"
+correct,mathdial_5000071,False,True,0.8534247908404916,,,,"Tanya went to the grocery store to buy some fruit.  She bought 6 pears, 4 Granny Smith apples, 2 pineapples, and a small basket of plums, which were all placed in a single paper bag.  Unfortunately, the bag that the fruit had been placed in","Let's first find out how many pieces of fruit Tanya originally had in the bag before half fell out.
+Tanya bought 6 pears + 4 apples + 2 pineapples + x plums = 10 + x total pieces of fruit
+Half of the fruit fell out, so Tanya was left with ("
+correct,mathdial_5000528,False,True,0.8596637505099167,,,,"Kelly booked a three week vacation to visit relatives.  The first day, she spent traveling.  The next 5 days she spent at her Grandparents' house.  The next day, she spent traveling.  Then, she spends the next 5 days at her brother's house.","Kelly spent a total of 3 + 5 + 1 + 5 + 2 + x + 2 = 18 + x days on her vacation, where x is the number of days she spent at her sister's house.
+Since the vacation was three weeks long, or 21 days, we can write the equation:
+18 + x = 21
+Solvi"
+correct,mathdial_5000212,False,True,0.8543993677396563,,,,Frank is walking through a corn maze. He has already spent 45 minutes inside. He has done 4 other corn mazes and finished those in 50 minutes on average. How much longer can he spend inside if he wants to ensure that his average doesn't go ,"Frank has completed a total of 5 corn mazes (including the current one), so he has spent a total of 45 + 50(4) = 245 minutes in the mazes.
+To keep his average below 60 minutes per maze, he can spend a total of 60(5) - 245 = 55 minutes in th"
+correct,mathdial_5000629,False,True,0.6976089173220981,,,,"You can lower the price by 20% if you buy more than fifteen units of iPhone cases. If you pay $500 to buy 18 units, what is the original price?","First, let's find the price per unit after the 20% discount:
+If the original price is x, then the discounted price is 0.8x (since 20% off is the same as multiplying by 0.8). We know that this discounted price is what we paid for 18 units, s"
+correct,mathdial_5000226,False,True,0.90796713988899,,,,"In one month in the Smith house, Kylie uses 3 bath towels, her 2 daughters use a total of 6 bath towels, and her husband uses a total of 3 bath towels. If the washing machine can fit 4 bath towels for one load of laundry, how many loads of ","Kylie and her husband use a total of 3 + 3 = 6 bath towels.
+Altogether, the Smiths use 3 + 6 + 6 = 15 bath towels in one month.
+They will need 15/4 = 3.75 loads of laundry to clean all of their used towels.
+Since they can't do a fractional "
+correct,mathdial_5000928,False,True,0.9252299570920388,,,,"Caitlin makes bracelets to sell at the farmer’s market every weekend. Each bracelet takes twice as many small beads as it does large beads. If each bracelet uses 12 large beads, and Caitlin has 528 beads with equal amounts of large and smal","Since each bracelet takes twice as many small beads as it does large beads, Caitlin uses 12 x 2 = 24 small beads per bracelet.
+For each bracelet, Caitlin uses a total of 12 + 24 = 36 beads.
+Since she has an equal number of large and small b"
+correct,mathdial_5000194,False,True,0.5736784074525096,,,,"Jack will have ten times more handball trophies than Michael has right now in three years. If Michael has 30 trophies right now, and the number of his trophies increases by 100 in three years, what's the total number of trophies they'll hav","In three years, Michael will have 30+100 = 130 trophies.
+Jack will have ten times more handball trophies than Michael has right now in three years, meaning Jack will have 10*130 = 1300 handball trophies in three years.
+Altogether, they will"
+correct,mathdial_6000043,False,True,0.8289388083214156,,,,"Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how","Sam had 5 days to sell bread because he was closed on Monday and Friday.
+He sold a total of 20 + 15 + 12 + 18 = 65 crates of bread from Tuesday to Thursday.
+Adding the 20 crates he sold over the weekend, Sam sold a total of 65 + 20 = 85 cra"
+correct,mathdial_5000928,False,True,0.9252299570920388,,,,"Caitlin makes bracelets to sell at the farmer’s market every weekend. Each bracelet takes twice as many small beads as it does large beads. If each bracelet uses 12 large beads, and Caitlin has 528 beads with equal amounts of large and smal","Since each bracelet takes twice as many small beads as it does large beads, Caitlin uses 12 x 2 = 24 small beads per bracelet.
+For each bracelet, Caitlin uses a total of 12 + 24 = 36 beads.
+Since she has an equal number of large and small b"
+correct,mathdial_5000044,False,True,0.7950222638482464,,,,"Adam goes to a small school, which teaches 80 students in three classes. 40% of the students are in class A, and class B has 21 students fewer than class A. The rest are in class C. How many students are in this class?","40% of 80 students are in class A, which is 0.4 x 80 = 32 students.
+Let's call the number of students in class B ""b"". So, the number of students in class C is 80 - 32 - b = 27 students.
+We also know that class B has 21 students fewer than c"
+correct,mathdial_5000918,False,True,0.8187367931713698,,,,"During the soccer match, The Kickers scored 2 goals in the first period and twice that amount in the second period.  The other team, The Spiders, scored half the amount that The Kickers scored in the first period and twice the amount that T","The Kickers scored 2 x 2 = 4 goals in the second period.
+The Spiders scored 2 / 2 = 1 goal in the first period.
+The Spiders scored 2 x 2 = 4 goals in the second period.
+The total number of goals scored by The Kickers and The Spiders is 2 + "
+correct,mathdial_5000871,False,True,0.9559813501370537,,,,"Steve decides to read a new book.  He reads 100 pages Monday, Wed, and Friday.  The book is 2100 pages long.  How many weeks does it take to read them all?","Steve reads a total of 100 x 3 = 300 pages in three days.
+To read the entire book, he needs to read for 2100/300 = 7 sets of three days.
+Therefore, it will take Steve 7 x 3 = 21 days to read the entire book.
+Since there are 7 days in a week"
+correct,mathdial_6000043,False,True,0.8289388083214156,,,,"Sam sells bread. He has a target of selling 120 crates of bread in a week. One week he was closed on Monday and Friday. Over the weekend he sold 20 crates. On Tuesday he sold 15 crates, on Wednesday 12 crates, and Thursday 18 crates. By how","Sam had 5 days to sell bread because he was closed on Monday and Friday.
+He sold a total of 20 + 15 + 12 + 18 = 65 crates of bread from Tuesday to Thursday.
+Adding the 20 crates he sold over the weekend, Sam sold a total of 65 + 20 = 85 cra"
+correct,mathdial_5000182,False,True,0.7041601384435928,,,,"The difference in the number of pens that Alice and Clara each have matches their age difference. Alice has 60 pens and Clara has 2/5 times as many pens as Alice. If Alice's age is 20 and Clara is older than Alice, calculate Clara's age in ","If Alice has 60 pens, and Clara has 2/5 times as many pens as Alice, Clara has 2/5*60 = 24 pens.
+The age difference between Alice and Clara is 24, given that the difference in the number of pens that Alice and Clara each have matches their "
+correct,mathdial_5000199,False,True,0.5869964297463166,,,,"Today, at the school science lesson, Jake learned that there are 8 more solar systems for every planet in the galaxy. If there are 20 planets in the galaxy, how many solar systems and planets are there altogether?","For every planet, there are 8 more solar systems, so there are 8+1 = 9 parts in total.
+If there are 20 planets in the galaxy, then there are 20 x 9 = 180 parts in total.
+Out of these parts, 20 are planets, so the rest (180-20) = 160 are sol"
+correct,mathdial_5001020,False,True,0.5907792048683922,,,,"In preparation for the upcoming Olympics, Rita's swimming coach requires her to swim a total of 1,500 hours. Rita has already completed 50 hours of backstroke, 9 hours of breaststroke, and 121 hours of butterfly, but she is unhappy with her","Rita has already completed a total of 50+9+121 = 180 hours of swimming.
+She still needs to swim a total of 1,500 - 180 = 1320 hours.
+Every month, she will swim a total of 220 x 2 = 440 hours.
+Dividing the remaining hours by the hours she sw"
+correct,mathdial_5000334,False,True,0.5097643834260159,,,,John's camera broke so he decided to rent one for 4 weeks.  It was a $5000 camera and the rental fee was 10% of the value per week.  His friend who was there when it broke agreed to pay 40% of the rental fee.  How much did John pay?,"The rental fee per week is 10% of $5000 which is $500 x 0.1 = $50.
+So the total rental fee for 4 weeks is $50 x 4 = $200.
+John's friend agreed to pay 40% of the rental fee which is $200 x 0.4 = $80.
+Therefore, John paid $200 - $80 = $120 fo"
+correct,mathdial_5000079,False,True,0.8679338421303608,,,,"A man is returning home from work and trying to decide which route to take.  His first route option includes 3 stoplights.  This route will take him 10 minutes if all three lights are green, but each light that is red will add 3 minutes to ","If all three lights are green, the trip will take 10 minutes.
+If one light is red, the trip will take 10 + 3 = 13 minutes.
+If two lights are red, the trip will take 10 + 3 + 3 = 16 minutes.
+If all three lights are red, the trip will take 10"
+correct,mathdial_5000067,False,True,0.9496693674025232,,,,"A new movie gets released and makes $120 million in the box office for its opening weekend.  It ends up making 3.5 times that much during its entire run.  If the production company gets to keep 60%, how much profit did they make if the movi","The movie made 120 x 3.5 = 420 million dollars during its entire run.
+The production company made 420 x 0.6 = 252 million dollars.
+The movie cost 60 million dollars to produce.
+So the profit made by the production company is 252 - 60 = 192 "
+correct,mathdial_5000195,False,True,0.7106283025898368,,,,"A local restaurant is offering an 8 piece fried chicken bucket and 2 sides for $12.00 that will feed 6 people.  If Monty was having a family reunion for 36 family members, how much will it cost him to buy enough chicken and sides to feed ev","If the 8 piece fried chicken bucket and 2 sides feed 6 people, then each serving feeds 6/8 = 0.75 people.
+To feed 36 people, Monty will need 36/0.75 = 48 servings.
+To buy 48 servings, Monty will need to buy 48/6 = 8 sets of the chicken buck"
+correct,mathdial_5000831,False,True,0.9396923600249308,,,,"There are 30 players on a football team. The coach has 8 liters of water. She pours 200 milliliters of water for every player so they can get hydrated. Unfortunately, there was a water spill and 250ml of water was spilled. How much water wa","The coach needs a total of 30 x 200 = 6000 ml of water for all the players.
+6000 ml is equal to 6 liters of water, so after pouring water for all the players, the coach used 6 liters of water.
+After the water spill, there was only 8 - 6 - 0"
+correct,mathdial_5001038,False,True,0.5688948889236563,,,,"With 82 students, there are 2 students for each computer. If there are 16 more students, how many computers must they have in total to continue with 2 students per computer?","There are 82/2 = 41 computers available for 82 students.
+If there are 16 more students, then there are 82+16 = 98 students in total.
+To maintain 2 students per computer, they need 98/2 = 49 computers in total.
+Since they already have 41 com"
+correct,mathdial_5000464,False,True,0.8013146462095748,,,,"Hanna has twice as many erasers as Rachel.  Rachel has three less than one-half as many erasers as Tanya has red erasers.  If Tanya has 20 erasers, and half of them are red, how many erasers does Hanna have?","Half of Tanya's 20 erasers are red, so Tanya has 20/2 = 10 red erasers.
+One-half of Tanya's erasers is 20/2 = 10 erasers.
+Rachel has three less than one-half as many erasers as Tanya has red erasers, so Rachel has 10 - 3 = 7 erasers.
+Hanna "
+correct,mathdial_5000490,False,True,0.8407825918539462,,,,"Cathy and Chris got summer jobs at the cake shop and were supposed to work 20 hours per week each for 2 months. During that time, Chris got sick for one week and Cathy took her shifts. If there are four weeks in a month, how many hours did ","Cathy was supposed to work 20 x 4 = 80 hours for a month.
+So, she was supposed to work 80 x 2 = 160 hours for two months.
+Chris was absent for a week so he was not able to work for 20 hours.
+So, Cathy took over Chris' work and worked for 20"
+correct,mathdial_5000369,False,True,0.7082125739194518,,,,"Wilson decides to go sledding on some nearby hills. On the 2 tall hills, he sleds down them 4 times each and on the 3 small hills, he sled down them half as often as he sleds down the tall hills. How many times did he sled down the hills?","Wilson sleds down the tall hills 2 x 4 = 8 times.
+He sleds down the small hills half as often as the tall hills, which means he sleds down each small hill 4/2 = 2 times.
+So, he sleds down the small hills 2 x 2 x 3 = 12 times.
+Therefore, he "
+correct,mathdial_5000859,False,True,0.9594592615365182,,,,"Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. Aft","On the fourth day, Chris holds his breath for 40 seconds.
+On the fifth day, Chris holds his breath for 50 seconds.
+On the sixth day, Chris holds his breath for 60 seconds.
+On the seventh day, Chris holds his breath for 70 seconds.
+On the ei"
+correct,mathdial_5000078,False,True,0.8474634859343486,,,,"A year ago, the total cost of buying a lawnmower was 2/5 times less than the cost it goes for now. If the cost was $1800 a year ago, calculate how much it would cost Mr. Lucian to buy 4 such lawnmowers.","If the cost of the lawnmower was 2/5 times less a year ago, then it was 3/5 times the current cost. Let's find the current cost first.
+If the cost a year ago was $1800, then 3/5 times the current cost is 1800, so we have:
+(3/5)x = 1800
+Mult"
+correct,mathdial_5000082,False,True,0.6787529741649941,,,,Earl started delivering newspapers on the first floor of a condominium building. He then went up 5 floors then went down 2 floors. He again went up 7 floors and found that he is 9 floors away from the top of the building. How many floors do,"Earl went up 5 floors and then down 2 floors, so he ended up 5 - 2 = 3 floors higher than his starting point.
+He then went up 7 floors, so he was 3 + 7 = 10 floors higher than his starting point.
+If he was 9 floors away from the top of the "
+correct,mathdial_5000622,False,True,0.6433292938858967,,,,"Ms. Jones got thank you cards from 30% of her class. 1/3 of these contained a gift card for $10. If she got $50 in gift cards, how many students were in her class?","Let x be the total number of students in Ms. Jones' class.
+30% of the class is 0.3x.
+So, she got thank you cards from 0.3x students.
+1/3 of these cards contained a $10 gift card, so the total amount of money she received is (0.3x)(1/3)($10)"
+correct,mathdial_5000759,False,True,0.801935826331075,,,,"James catches 3 kinds of fish.  He catches 200 pounds of trout,  50% more pounds of salmon, and twice as much Tuna.  How many pounds of fish did he catch?","James caught 50% more pounds of salmon than trout, which means he caught 200 x 0.5 = 100 more pounds of salmon.
+So, James caught 200 + 100 = 300 pounds of salmon.
+He also caught twice as much tuna as trout, which means he caught 200 x 2 = 4"
+correct,mathdial_5000859,False,True,0.9594592615365182,,,,"Chris wants to hold his breath underwater for 90 straight seconds so he starts training each day. On the first day, he holds it for 10 seconds. On the second day, he holds it for 20 seconds. On the third day, he holds it for 30 seconds. Aft","On the fourth day, Chris holds his breath for 40 seconds.
+On the fifth day, Chris holds his breath for 50 seconds.
+On the sixth day, Chris holds his breath for 60 seconds.
+On the seventh day, Chris holds his breath for 70 seconds.
+On the ei"
+correct,mathdial_5000164,False,True,0.7520125737597972,,,,"Kamil wants to renovate his kitchen at home. For this purpose, he hired two professionals who work for him 6 hours a day for 7 days. What does it cost Kamil to hire these professionals if one of them is paid $15 per hour of work?","The two professionals work together for 6 x 2 = 12 hours a day.
+They work for a total of 12 x 7 = 84 hours in 7 days.
+So, the first professional earns a total of 15 x 84 = $1260 for the entire work.
+Since there are two professionals, Kamil "
+correct,mathdial_5000245,False,True,0.6671476749870737,,,,"A woman is trying to decide whether it will be quicker to take an airplane or drive herself to a job interview. If she drives herself, the trip will take her 3 hours and 15 minutes.  If she takes an airplane, she will first need to drive 10","The total time it takes for the woman to take the airplane is:
+
+10 (driving to airport) + 20 (waiting to board) + (3 hours and 15 minutes)/3 (flight time) + 10 (getting off the airplane) = 10 + 20 + 1 hour and 5 minutes + 10 = 1 hour and 45"
+correct,mathdial_5001060,False,True,0.6834194849762091,,,,"Mandy’s phone data plan charges $30 per month for data. Her first month, she got a promotional rate of one-third the normal price. However, in the fourth month she went over her data limit and was charged an extra fee of $15. How much did M","Mandy paid 30/3 = 10 dollars for her first month.
+For months 2-3, she paid the normal price of $30 per month.
+For month 4, she paid $30 + $15 = $45.
+For months 5-6, she paid the normal price of $30 per month.
+In total, Mandy paid 10 + (3 x "
+correct,mathdial_5000918,False,True,0.8187367931713698,,,,"During the soccer match, The Kickers scored 2 goals in the first period and twice that amount in the second period.  The other team, The Spiders, scored half the amount that The Kickers scored in the first period and twice the amount that T","The Kickers scored 2 x 2 = 4 goals in the second period.
+The Spiders scored 2 / 2 = 1 goal in the first period.
+The Spiders scored 2 x 2 = 4 goals in the second period.
+The total number of goals scored by The Kickers and The Spiders is 2 + "
+correct,mathdial_5000751,False,True,0.9241418199787566,,,,Each dandelion produces 300 seeds. 1/3rd of the seeds land in water and die. 1/6 of the starting number are eaten by insects. Half the remainder sprout and are immediately eaten. How many dandelions survive long enough to flower?,"Starting with 300 seeds, 1/3rd land in water and die, so 2/3 are left. 200 seeds are left.
+1/6 of the starting number are eaten by insects, so (1/6) x 300 = 50 seeds are eaten. Thus, 200 - 50 = 150 are left.
+Half of the remainder sprout, so"
+correct,mathdial_5000921,False,True,0.5107405350179702,,,,Jordan noticed that there are 2 cars in his driveway that each have 4 wheels.  There are 2 bikes and a trash can that each have 2 wheels.  There is also a tricycle and a pair of old roller skates.  How many wheels are there?,"The cars have a total of 2 x 4 = 8 wheels.
+The bikes and trash can have a total of 2 x 2 + 2 = 6 wheels.
+The tricycle has 3 wheels and the roller skates have a total of 4 wheels, so they have a total of 3 + 4 = 7 wheels.
+Altogether, there a"
+correct,mathdial_5000155,False,True,0.5784481789341114,,,,"Kevin holds the world record for eating the biggest quantity of hot wings in 8 minutes. He can eat 64 wings without stopping. Alan, a boy who loves hot wings, wants to beat Kevin's record.  He is currently able to eat 5 hot wings per minute","Kevin can eat 64/8 = 8 hot wings per minute.
+To beat Kevin's record, Alan needs to eat more than 8 hot wings per minute.
+He needs to eat 64 hot wings / 8 minutes = 8 hot wings per minute to match Kevin's record.
+So, Alan needs to eat 8 - 5 "
+correct,mathdial_5000921,False,True,0.5107405350179702,,,,Jordan noticed that there are 2 cars in his driveway that each have 4 wheels.  There are 2 bikes and a trash can that each have 2 wheels.  There is also a tricycle and a pair of old roller skates.  How many wheels are there?,"The cars have a total of 2 x 4 = 8 wheels.
+The bikes and trash can have a total of 2 x 2 + 2 = 6 wheels.
+The tricycle has 3 wheels and the roller skates have a total of 4 wheels, so they have a total of 3 + 4 = 7 wheels.
+Altogether, there a"
+correct,mathdial_5000021,False,True,0.7725306622446245,,,,"Jeanette is practicing her juggling. Each week she can juggle 2 more objects than the week before. If she starts out juggling 3 objects and practices for 5 weeks, how many objects can she juggle?","In the first week, Jeanette can juggle 3 objects.
+In the second week, Jeanette can juggle 3+2 = 5 objects.
+In the third week, Jeanette can juggle 5+2 = 7 objects.
+In the fourth week, Jeanette can juggle 7+2 = 9 objects.
+In the fifth week, J"
+correct,mathdial_5000524,False,True,0.7641884136055329,,,,"A watermelon stand sold 46 watermelons. Seventeen customers bought one melon, three customers bought three melons, and the rest bought two melons. How many customers bought two watermelons?","The number of customers who bought one or three watermelons is 17 + 3 = 20.
+Let x be the number of customers who bought two watermelons.
+So, the total number of watermelons sold is 1(17) + 3(3) + 2x = 17 + 9 + 2x = 26 + 2x.
+Therefore, 26 + "
+correct,mathdial_5000413,False,True,0.8449215283934065,,,,James decides to try and collect rare artifacts in the field.  He spends 6 months researching before going on a 2-year-long expedition for his first find.  The second artifact takes 3 times as long for the research and discovery.  How long ,"For the first artifact, James spent 6 months researching and 2 years on the expedition, which is 2 x 12 = 24 months.
+So, it took him a total of 6 + 24 = 30 months to find the first artifact.
+For the second artifact, he spent 3 times as long"
+correct,mathdial_5000521,False,True,0.6160122621434994,,,,"Bob buys nose spray.  He buys 10 of them for a ""buy one get one free"" promotion.  They each cost $3.  How much does he pay?","Bob buys 10 nose sprays for a ""buy one get one free"" promotion, so he actually gets 20 nose sprays in total.
+Each nose spray costs $3, so the total cost for 20 nose sprays is 20 x 3 = $60.
+However, since 10 of them were free, Bob only pays "
+correct,mathdial_5000379,False,True,0.743912883406992,,,,Lee is saving up for a new pair of sneakers which cost $90. He already has $15 saved. He plans to sell his old action figures to make the rest. If he sells 10 action figures and still has $25 left after buying the sneakers how much did he c,"Lee needs to save $90 - $15 = $75 for the sneakers.
+After selling the action figures, he has $25 + the money he gets from selling the action figures = $75.
+So he earned $75 - $25 = $50 from selling the action figures.
+Since he sold 10 actio"
+correct,mathdial_5000212,False,True,0.8543993677396563,,,,Frank is walking through a corn maze. He has already spent 45 minutes inside. He has done 4 other corn mazes and finished those in 50 minutes on average. How much longer can he spend inside if he wants to ensure that his average doesn't go ,"Frank has completed a total of 5 corn mazes (including the current one), so he has spent a total of 45 + 50(4) = 245 minutes in the mazes.
+To keep his average below 60 minutes per maze, he can spend a total of 60(5) - 245 = 55 minutes in th"
+correct,mathdial_5000517,False,True,0.5126925850490733,,,,"If there are four times as many apples as oranges in a certain fruit basket and the basket has 15 apples, how many fruits would Emiliano have consumed if he eats 2/3 of each fruit's quantity in the basket?","If there are four times as many apples as oranges in the basket, and the basket has 15 apples, then there are 15/4 = 3.75 oranges.
+Emiliano eats 2/3 of each fruit's quantity in the basket, which means he eats 2/3 x 15 = 10 apples.
+He also e"
+correct,mathdial_5000381,False,True,0.5117166047041654,,,,"Jim buys a wedding ring for $10,000.  He gets his wife a ring that is twice that much and sells the first one for half its value.  How much is he out of pocket?","The wife's ring is twice the price of Jim's ring, so it costs 2 x $10,000 = $20,000.
+Jim sells his ring for half the price he paid, so he gets $10,000 / 2 = $5,000.
+Jim is out of pocket for the wife's ring minus the money he made from selli"
+correct,mathdial_5001054,False,True,0.8092759746879663,,,,"Jerry works as an independent contractor for a company that pays him $40 per task. If each task takes him two hours to complete and he works 10 hours a day for a whole week, calculate the total amount of money he would earn at the end of th","Jerry works for 10 hours x 5 days = 50 hours in a week.
+If each task takes him two hours to complete, he can complete 10 hours / 2 hours per task = 5 tasks in a day.
+Therefore, he can complete 5 tasks per day x 5 days = 25 tasks in a week.
+"
+correct,mathdial_5000622,False,True,0.6433292938858967,,,,"Ms. Jones got thank you cards from 30% of her class. 1/3 of these contained a gift card for $10. If she got $50 in gift cards, how many students were in her class?","Let x be the total number of students in Ms. Jones' class.
+30% of the class is 0.3x.
+So, she got thank you cards from 0.3x students.
+1/3 of these cards contained a $10 gift card, so the total amount of money she received is (0.3x)(1/3)($10)"
+correct,mathdial_5001020,False,True,0.5907792048683922,,,,"In preparation for the upcoming Olympics, Rita's swimming coach requires her to swim a total of 1,500 hours. Rita has already completed 50 hours of backstroke, 9 hours of breaststroke, and 121 hours of butterfly, but she is unhappy with her","Rita has already completed a total of 50+9+121 = 180 hours of swimming.
+She still needs to swim a total of 1,500 - 180 = 1320 hours.
+Every month, she will swim a total of 220 x 2 = 440 hours.
+Dividing the remaining hours by the hours she sw"
+correct,mathdial_5000937,False,True,0.7310585786300049,,,,"Cherry put up a delivery service. She charges $2.50 for a 3-5 kilograms cargo and $4 for a 6-8 kilograms cargo. If she delivers four 5 kilograms cargo and two 8 kilograms cargo per day, how much money will she earn in a week?","For the 5 kilograms cargo:
+Cherry earns 4 x 4 = $16 per day for delivering four 5 kilograms cargo.
+For the 8 kilograms cargo:
+Cherry earns 2 x 4 = $8 per day for delivering two 8 kilograms cargo.
+Cherry earns a total of 16 + 8 = $24 per day"
+correct,mathdial_6000031,False,True,0.8820219914046175,,,,"Billy is peeling and cutting potatoes in preparation for making potato salad for his big family reunion barbecue. It's a big event, so he has 60 potatoes to get through. The potatoes are roughly the same size, so it takes about the same amo","To peel a potato, it takes 1.5 minutes or 90 seconds.
+So, to peel 60 potatoes, it will take 90 x 60 = 5400 seconds.
+To cut up a potato, it takes 5 seconds.
+So, to cut up 60 potatoes, it will take 5 x 60 = 300 seconds.
+Therefore, it will tak"
+correct,mathdial_6000058,False,True,0.5746334887513667,,,,3 customers were kicked out of the Walmart for refusing to wear masks. A number equals to four times that many minus 5 were kicked out for shoplifting.  Three times the number of shoplifters were kicked out for physical violence over goods ,"Let's first find the number of shoplifters: 3 customers + (3 x 4 - 5) shoplifters = 10 shoplifters
+Now let's find the number of customers kicked out for violence: 10 shoplifters x 3 = 30 customers
+The total number of customers kicked out is"

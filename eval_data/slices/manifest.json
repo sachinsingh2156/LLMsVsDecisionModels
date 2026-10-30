@@ -1,0 +1,57 @@
+{
+  "seed": 42,
+  "sampling": "MAP slices are stratified by Category with a fixed seed, not the first N train rows. The first 50/500 MAP train rows are all True_* (correct MC answers), which would make correctness accuracy uninterpretable. MathDial uses the official test split (599 rows).",
+  "slices": {
+    "map_50": {
+      "rows": 50,
+      "mix": {
+        "map_category": {
+          "True_Correct": 19,
+          "False_Misconception": 13,
+          "False_Neither": 9,
+          "True_Neither": 7,
+          "True_Misconception": 1,
+          "False_Correct": 1
+        },
+        "ground_truth_correct": {
+          "true": 27,
+          "false": 23
+        },
+        "misconception_labelled": 14
+      },
+      "csv": "map_50.csv",
+      "questions": "map_questions.json"
+    },
+    "map_500": {
+      "rows": 500,
+      "mix": {
+        "map_category": {
+          "True_Correct": 202,
+          "False_Misconception": 129,
+          "False_Neither": 89,
+          "True_Neither": 72,
+          "True_Misconception": 5,
+          "False_Correct": 3
+        },
+        "ground_truth_correct": {
+          "true": 279,
+          "false": 221
+        },
+        "misconception_labelled": 134
+      },
+      "csv": "map_500.csv",
+      "questions": "map_questions.json"
+    },
+    "mathdial_test": {
+      "rows": 599,
+      "mix": {
+        "ground_truth_correct": {
+          "true": 0,
+          "false": 599
+        }
+      },
+      "csv": "mathdial_test.csv",
+      "questions": "mathdial_questions.json"
+    }
+  }
+}

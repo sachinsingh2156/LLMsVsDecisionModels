@@ -1,0 +1,52 @@
+{
+  "correct": {
+    "type": "noul",
+    "instructions": "Decide whether the student's selected multiple-choice answer is the correct answer to the question. Judge the selected answer, not the quality of the explanation.",
+    "criteria": {
+      "true": "The selected answer matches the mathematically correct option.",
+      "false": "The selected answer is not the correct option."
+    }
+  },
+  "misconception": {
+    "type": "choice",
+    "instructions": "Classify the misconception in the student's explanation using the MAP taxonomy. Choose none if the explanation is correct or does not match a listed misconception.",
+    "criteria": {
+      "Adding_across": "Added numerators with numerators and denominators with denominators, or added across place values incorrectly.",
+      "Adding_terms": "Added terms that should have been multiplied, subtracted, or otherwise combined differently.",
+      "Additive": "Treated a multiplicative or proportional relationship as if it were additive.",
+      "Base_rate": "Ignored or inverted a base rate / proportion when comparing quantities.",
+      "Certainty": "Treated an uncertain or estimated quantity as if it were exact.",
+      "Definition": "Used an incorrect definition of a mathematical term or operation.",
+      "Denominator_only_change": "Changed only the denominator of a fraction (or only the numerator) instead of an equivalent transformation.",
+      "Division": "Divided when the situation required a different operation, or inverted the dividend and divisor.",
+      "Duplication": "Counted the same quantity twice or duplicated a step.",
+      "Firstterm": "Used only the first term or first piece of given information and ignored the rest.",
+      "FlipChange": "Flipped a fraction or ratio incorrectly when changing operations (e.g. invert-and-multiply misuse).",
+      "Ignores_zeroes": "Dropped, ignored, or misplaced zeroes in a number or decimal.",
+      "Incomplete": "Stopped before finishing a required step; the method is otherwise on track but unfinished.",
+      "Incorrect_equivalent_fraction_addition": "Tried to add fractions by making equivalents but produced a non-equivalent fraction or added incorrectly after converting.",
+      "Interior": "Used an interior / intermediate number from the problem as if it were the answer.",
+      "Inverse_operation": "Applied the inverse of the required operation.",
+      "Inversion": "Inverted a fraction, ratio, or difference when it should not have been inverted.",
+      "Irrelevant": "The explanation is off-topic or does not address the mathematics of the question.",
+      "Longer_is_bigger": "Assumed the longer decimal / more digits means a larger number.",
+      "Mult": "Multiplied when the situation required a different operation.",
+      "Multiplying_by_4": "Multiplied by 4 (or another salient number in the item) without a valid reason.",
+      "Not_variable": "Treated a variable as a specific number, or treated a number as if it were a variable.",
+      "Positive": "Dropped a negative sign or treated a signed quantity as positive.",
+      "Scale": "Used the wrong scale factor or failed to scale a diagram / unit consistently.",
+      "Shorter_is_bigger": "Assumed a shorter decimal / fewer digits means a larger number.",
+      "Subtraction": "Subtracted when the situation required a different operation, or subtracted in the wrong order.",
+      "SwapDividend": "Swapped dividend and divisor.",
+      "Tacking": "Tacked an extra unmatched digit, term, or unit onto an otherwise reasonable answer.",
+      "Unknowable": "Claimed the answer cannot be determined when it can, or invented missing information.",
+      "WNB": "Whole-number bias: interpreted a fraction using whole-number thinking.",
+      "Whole_numbers_larger": "Assumed a whole number is larger than a fraction (or vice versa) without comparing values.",
+      "Wrong_Fraction": "Wrote or selected the wrong fraction (MAP label Wrong_Fraction).",
+      "Wrong_Operation": "Chose the wrong arithmetic operation for the situation.",
+      "Wrong_fraction": "Wrote or selected the wrong fraction (MAP label Wrong_fraction).",
+      "Wrong_term": "Used the wrong term, addend, factor, or variable from the question.",
+      "none": "No labelled MAP misconception. The explanation is correct, or it is neither correct nor a known misconception."
+    }
+  }
+}

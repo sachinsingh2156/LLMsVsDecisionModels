@@ -1,0 +1,216 @@
+task,id,gt,pred,p_true,map_category,gt_misconception,pred_misconception,question,student_answer
+correct,map_20151,False,True,0.95,False_Neither,none,none,Which number is the greatest?,"Selected answer: \( 6 \)
+
+Explanation: this is equal to 6.00 times a decimal, which equals six hundredth of ach."
+misconception_labelled,map_18985,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: if you multiply 5 by 2 it makes 10, and if you triple 3 by 5, it is 15."
+misconception_labelled,map_33057,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: the answer is d because as more patterns appear so does the amount of dots ,the dots increase by 4 each pattern meaning that at pattern 6 there will be 22 dots"
+misconception_labelled,map_2563,WNB,Definition,0.0,False_Misconception,WNB,Definition,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: There is 3 not shaded and 6 shades so it =3/6"
+misconception_labelled,map_30524,Tacking,none,1.0,True_Misconception,Tacking,none,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( -3 \)
+
+Explanation: because 8-5=3 so its the same for negative"
+misconception_labelled,map_5023,Mult,SwapDividend,0.0,False_Misconception,Mult,SwapDividend,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: Hslf of 6 is 3, so 3 / 2 = 1."
+misconception_labelled,map_35628,Multiplying_by_4,Mult,0.0,False_Misconception,Multiplying_by_4,Mult,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?","Selected answer: \( 768 \) hours
+
+Explanation: ratioooo:d
+ 12/3=4 
+4x192=768 (i love ratio)"
+misconception_labelled,map_18479,Inversion,none,0.0,False_Misconception,Inversion,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: If you times the denominator by 5 then it is a multiple of 5."
+misconception_labelled,map_25885,Adding_across,Mult,0.0,False_Misconception,Adding_across,Mult,\( \frac{1}{3}+\frac{2}{5}= \),"Selected answer: \( \frac{3}{15} \)
+
+Explanation: you wood add boafe of numerator  and times boaf of the denominator and you get the answers"
+misconception_labelled,map_18988,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: if you multiply both numbers by 5, the result is 10/15."
+misconception_labelled,map_18707,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: bevause 5 times 2 is 10, and five times three is 15."
+misconception_labelled,map_19133,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: you just times each by 5."
+misconception_labelled,map_18321,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: 2x5=10 
+3x5=15 
+so if you put the numerator and denominator together it is ten over fifteen"
+misconception_labelled,map_20087,Whole_numbers_larger,Shorter_is_bigger,0.05,False_Misconception,Whole_numbers_larger,Shorter_is_bigger,Which number is the greatest?,"Selected answer: \( 6 \)
+
+Explanation: i would say 6 because it goes down in decimals rather than greater numbers and that is the only one of them which works."
+misconception_labelled,map_23308,Wrong_fraction,Incomplete,0.0,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: find 1/8 and times it by 3"
+misconception_labelled,map_32479,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: 4n+2 this is because four is the gap between each of the numbers therefore making the answerr 22."
+misconception_labelled,map_19673,Inversion,Definition,0.0,False_Misconception,Inversion,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: you only time 5 by the denomanater so 5 times 3 equals 15 so it will be 2/15"
+misconception_labelled,map_18588,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: because 2 x 5 is 10 and 3 x 5 is 15 but you can simplify to 2/3"
+misconception_labelled,map_10952,Irrelevant,Incomplete,0.0,False_Misconception,Irrelevant,Incomplete,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 3 \)
+
+Explanation: I know the answer is 3 because 3 times 3 is 9"
+misconception_labelled,map_32891,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: i think it is going up in fours."
+misconception_labelled,map_18996,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: if you triple 5 it is 15, and double that number it's 10, so three times five equals 15 and two times five equal 10."
+misconception_labelled,map_33129,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: this pattern goes up in 4 and the pattern 4 has 18 dots so the next one would be 22."
+misconception_labelled,map_18882,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: i think this because i multiplied both numbers by 5"
+misconception_labelled,map_19074,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: times 2 snd 3 by 5 you should have 10/15"
+misconception_labelled,map_30522,Tacking,none,1.0,True_Misconception,Tacking,none,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( -3 \)
+
+Explanation: because 8-5 sums to 3 then you make it negative and it make -3"
+misconception_labelled,map_5020,Mult,SwapDividend,0.0,False_Misconception,Mult,SwapDividend,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: Half of 6 is the same as 6 divided by 2, so 3 is half of 6."
+misconception_labelled,map_7642,Mult,Wrong_Operation,0.0,False_Misconception,Mult,Wrong_Operation,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{1}{3} \)
+
+Explanation: i think this because i know that if you treat the division sign as of it would make more sense 1/2 of 6 and so you first times the numerator from the denominator 1times 6 = 6 and then you div"
+misconception_labelled,map_29110,Interior,none,0.0,False_Misconception,Interior,none,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],"Selected answer: \( 5 \)
+
+Explanation: because if you times it by five it ends up being 720 which is the area of a hexagon"
+misconception_labelled,map_8243,Wrong_Fraction,none,0.0,False_Misconception,Wrong_Fraction,none,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 48 \)
+
+Explanation: 120 divided by 5 = 24 and 3 times by 24 = 48 so it's 48"
+misconception_labelled,map_33131,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: this pattern is going up in groups of 4, so the next one would be 22"
+misconception_labelled,map_14318,WNB,none,0.0,False_Misconception,WNB,none,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 9 \)
+
+Explanation: I picked d because the other one is 9 luke will."
+misconception_labelled,map_2353,WNB,Definition,0.0,False_Misconception,WNB,Definition,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: 3 are not shaded and 6 are shadedas."
+misconception_labelled,map_8302,Wrong_Fraction,Subtraction,0.0,False_Misconception,Wrong_Fraction,Subtraction,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 48 \)
+
+Explanation: As 120 divided by 5 is 24 and then 24 x 3 = 72 120 - 72 = 48!"
+misconception_labelled,map_19515,Inversion,Denominator_only_change,0.0,False_Misconception,Inversion,Denominator_only_change,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: i timed  3 by 5 to get 15 and you always keep your denominator the same so it is 2/15"
+misconception_labelled,map_8342,Wrong_Fraction,Wrong_fraction,0.0,False_Misconception,Wrong_Fraction,Wrong_fraction,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 48 \)
+
+Explanation: I calculated 1 / 5 was 24 and then I doubled it to get the whole and I got 48."
+misconception_labelled,map_18790,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: i say 10/15 because 2x5  is 10 and 3x5 is 15 which would be 10/15"
+misconception_labelled,map_32433,Wrong_term,none,0.0,False_Misconception,Wrong_term,none,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 20 \)
+
+Explanation: i think it’s b since you’re adding 4 dots to the pattern every time."
+misconception_labelled,map_18498,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: So the answer is 10/15 because you would just times them both by 5."
+misconception_labelled,map_18483,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: It could also be five thirds because twice 5 is 10 and three times 5 equals fifteen."
+misconception_labelled,map_23399,Wrong_fraction,Incomplete,0.0,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: i think that it is 9 because 3/8 of 24 is 9"
+misconception_labelled,map_18339,Duplication,WNB,0.0,False_Misconception,Duplication,WNB,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: 3 x 5 = 15 and 2 X 5 is 10, so it's 10 * 15 = 150."
+misconception_labelled,map_32750,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: because you add 4 every time"
+misconception_labelled,map_18720,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: i answered a because 2x5=10 and 3x 5=15 so the fractuon is 10/15."
+misconception_labelled,map_19024,Duplication,Definition,0.0,False_Misconception,Duplication,Definition,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: numerator x 5, then denominator x 5.
+2 x 5 = 10.
+3 x 5 = 15."
+misconception_labelled,map_18981,Duplication,none,0.0,False_Misconception,Duplication,none,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: if you multiply 2 times 5 is 10, and 3 times 5, then it is 15. so, the answer is 10."
+misconception_labelled,map_16444,Not_variable,none,0.0,False_Misconception,Not_variable,none,\( 2 y=24 \) What is the value of \( y \) ?,"Selected answer: \( 4 \)
+
+Explanation: i think that it is a because i covered up the two twoes and i got four."
+misconception_labelled,map_8653,Wrong_Fraction,Wrong_fraction,0.0,False_Misconception,Wrong_Fraction,Wrong_fraction,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 60 \)
+
+Explanation: 5 divide by 120= 24 then times by 2"
+misconception_labelled,map_2996,WNB,Incomplete,0.05,False_Misconception,WNB,Incomplete,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{9} \)
+
+Explanation: 6 triangles are shaded so 3 aren’t shaded"
+misconception_labelled,map_7771,SwapDividend,FlipChange,0.0,False_Misconception,SwapDividend,FlipChange,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{6}{2} \)
+
+Explanation: I know this because using the 'keep, change, flip'
+method it is 6/2"
+misconception_labelled,map_5294,Mult,SwapDividend,0.0,False_Misconception,Mult,SwapDividend,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: because half of six is three because if you divide 2 by 6 it equals 3"
+misconception_labelled,map_11028,Irrelevant,Incomplete,0.0,False_Misconception,Irrelevant,Incomplete,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 3 \)
+
+Explanation: I think this because u are dividing 9 by 3. And then u get an answer of three so that is my answer"
+misconception_labelled,map_32783,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: d is correct as itd being added by 4 each time and 18+4=22"
+misconception_labelled,map_23051,Wrong_fraction,Incomplete,0.0,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: 24 divided by 8 is 3 so three times 3 is 9."
+misconception_labelled,map_35480,Base_rate,Incomplete,0.0,False_Misconception,Base_rate,Incomplete,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?","Selected answer: \( 64 \) hours
+
+Explanation: 3 people = 192 hours
+i perons = 64 hours"
+misconception_labelled,map_32716,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: because the number of dots go up by 4 each time"
+misconception_labelled,map_23153,Wrong_fraction,Incomplete,0.0,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: I think b because when you do 24 divided by 8 times by 3 that is what comes out."
+misconception_labelled,map_33108,Wrong_term,Incomplete,0.0,False_Misconception,Wrong_term,Incomplete,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: they are going up in 4"
+misconception_labelled,map_23095,Wrong_fraction,Incomplete,0.0,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: 24/8 is 3 amd then I x it by 3."
+misconception_labelled,map_19309,Inversion,Denominator_only_change,0.0,False_Misconception,Inversion,Denominator_only_change,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: adding 1 over five, it was then multiplied by 5."
+misconception_labelled,map_12643,Irrelevant,none,1.0,True_Misconception,Irrelevant,none,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: 9 and 15 are both in the 3 times tables so 6/10 is the equivalent fraction"
+misconception_labelled,map_2522,WNB,Definition,0.0,False_Misconception,WNB,Definition,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: It is 3-6ths / 1-2 th because there are 6 shaded and 3 non-shaded areas."
+misconception_labelled,map_36375,Scale,Definition,0.0,False_Misconception,Scale,Definition,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?","Selected answer: Unlikely
+
+Explanation: Its unlikely but its not zero percent so it is possible."
+misconception_labelled,map_36364,Scale,Definition,0.0,False_Misconception,Scale,Definition,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?","Selected answer: Unlikely
+
+Explanation: It is unlikely because it is more than 0, and zero means no possibility."

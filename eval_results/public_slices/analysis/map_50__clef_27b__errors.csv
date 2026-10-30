@@ -1,0 +1,48 @@
+task,id,gt,pred,p_true,map_category,gt_misconception,pred_misconception,question,student_answer
+correct,map_13139,True,False,0.1637126694723767,True_Misconception,Additive,Additive,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: I put this because this because the difference between 9 and 15 is 6 and 4 and 10 is 6"
+correct,map_31069,True,False,0.3398276185853647,True_Neither,none,Positive,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( -3 \)
+
+Explanation: if you add two negative numbers together they always cancel to a positive."
+correct,map_16820,True,False,0.0875638395230586,True_Correct,none,Wrong_Fraction,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( 3 \frac{1}{3} \)
+
+Explanation: 3 1/3 is the mixed number fraction of 10 because 2x5 = 10."
+correct,map_21968,True,False,0.2094696813303252,True_Correct,none,Irrelevant,Which number is the greatest?,"Selected answer: \( 6.2 \)
+
+Explanation: this is technically six point two zero which if you wish is twenty which is bigger than seven, zero and zero point zero one"
+correct,map_35061,True,False,0.2372223384883484,True_Neither,none,Irrelevant,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?","Selected answer: \( 48 \) hours
+
+Explanation: as it’s less people to build for"
+misconception_labelled,map_19024,Duplication,Denominator_only_change,0.0596469429451214,False_Misconception,Duplication,Denominator_only_change,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: numerator x 5, then denominator x 5.
+2 x 5 = 10.
+3 x 5 = 15."
+misconception_labelled,map_19601,Inversion,Denominator_only_change,0.0222861855392254,False_Misconception,Inversion,Denominator_only_change,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: so you do 3*5=15 and then i normally do 2* imaginary 1=2 and 2/15 is youre anser"
+misconception_labelled,map_32891,Wrong_term,none,0.20817892905742,False_Misconception,Wrong_term,none,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: i think it is going up in fours."
+misconception_labelled,map_7771,SwapDividend,FlipChange,0.0296475101463136,False_Misconception,SwapDividend,FlipChange,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{6}{2} \)
+
+Explanation: I know this because using the 'keep, change, flip'
+method it is 6/2"
+misconception_labelled,map_19183,Inversion,Wrong_term,0.0216980971236319,False_Misconception,Inversion,Wrong_term,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: 2/3 times 1/5=2/15 so the answer is 2/15."
+misconception_labelled,map_5294,Mult,SwapDividend,0.0446808702726502,False_Misconception,Mult,SwapDividend,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: because half of six is three because if you divide 2 by 6 it equals 3"
+misconception_labelled,map_23399,Wrong_fraction,Incomplete,0.1629120374529118,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: i think that it is 9 because 3/8 of 24 is 9"
+misconception_labelled,map_2563,WNB,Wrong_Fraction,0.0815197559747189,False_Misconception,WNB,Wrong_Fraction,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: There is 3 not shaded and 6 shades so it =3/6"

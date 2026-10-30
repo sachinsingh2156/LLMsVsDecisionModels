@@ -1,0 +1,181 @@
+id,source_row_id,question_id,question,student_answer,mc_answer,student_explanation,map_category,ground_truth_correct,explanation_correct,ground_truth_misconception,misconception_labelled
+map_6091,6091,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{1}{12} \)
+
+Explanation: I know this because of the rule Keep Flips Change (KFC) Where you keep the 6 that is equal to 6/1 and flip it making 1/6 than change the method to multiplication which gives you the sum that looks like this 1/2x1/6 and 1x1=2 and 2x6 equals 12 so we're left with with 1/12",\( \frac{1}{12} \),I know this because of the rule Keep Flips Change (KFC) Where you keep the 6 that is equal to 6/1 and flip it making 1/6 than change the method to multiplication which gives you the sum that looks like this 1/2x1/6 and 1x1=2 and 2x6 equals 12 so we're left with with 1/12,True_Correct,True,True,none,False
+map_25576,25576,33472,\( \frac{1}{3}+\frac{2}{5}= \),"Selected answer: \( \frac{3}{15} \)
+
+Explanation: because we must first make the denominators the same so we could multiply the denominators and then add the numerators",\( \frac{3}{15} \),because we must first make the denominators the same so we could multiply the denominators and then add the numerators,False_Neither,False,False,none,False
+map_19024,19024,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: numerator x 5, then denominator x 5.
+2 x 5 = 10.
+3 x 5 = 15.",\( \frac{10}{15} \),"numerator x 5, then denominator x 5.
+2 x 5 = 10.
+3 x 5 = 15.",False_Misconception,False,False,Duplication,True
+map_26573,26573,33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.","Selected answer: \( \frac{1}{3} \times \frac{2}{3} \)
+
+Explanation: because i dividedd 2 by 1/3.",\( \frac{1}{3} \times \frac{2}{3} \),because i dividedd 2 by 1/3.,True_Neither,True,False,none,False
+map_30928,30928,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( -3 \)
+
+Explanation: i think this because a negative number next to a minus sign turns it into a positive.",\( -3 \),i think this because a negative number next to a minus sign turns it into a positive.,True_Correct,True,True,none,False
+map_13139,13139,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: I put this because this because the difference between 9 and 15 is 6 and 4 and 10 is 6",\( 6 \),I put this because this because the difference between 9 and 15 is 6 and 4 and 10 is 6,True_Misconception,True,False,Additive,True
+map_19601,19601,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: so you do 3*5=15 and then i normally do 2* imaginary 1=2 and 2/15 is youre anser",\( \frac{2}{15} \),so you do 3*5=15 and then i normally do 2* imaginary 1=2 and 2/15 is youre anser,False_Misconception,False,False,Inversion,True
+map_32891,32891,91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: i think it is going up in fours.",\( 22 \),i think it is going up in fours.,False_Misconception,False,False,Wrong_term,True
+map_18600,18600,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: because 2x5 is 10, and that's what the numerator is.",\( \frac{10}{15} \),"because 2x5 is 10, and that's what the numerator is.",False_Neither,False,False,none,False
+map_12481,12481,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 4 \)
+
+Explanation: to get from 10 to 15 they added 5, so to get to 9 you need a number that will add up to 9, which is 4?",\( 4 \),"to get from 10 to 15 they added 5, so to get to 9 you need a number that will add up to 9, which is 4?",False_Misconception,False,False,Additive,True
+map_12820,12820,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: Because I divided by 3 then x2=6/10",\( 6 \),Because I divided by 3 then x2=6/10,True_Correct,True,True,none,False
+map_12701,12701,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: 9/15 simplified is 3/5 and that is the same as 6/10",\( 6 \),9/15 simplified is 3/5 and that is the same as 6/10,True_Correct,True,True,none,False
+map_7438,7438,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{1}{3} \)
+
+Explanation: 1/3 divided by 6 is 1 / 2.",\( \frac{1}{3} \),1/3 divided by 6 is 1 / 2.,False_Neither,False,False,none,False
+map_28694,28694,76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],"Selected answer: \( 10 \)
+
+Explanation: angles in a decagon add up to 1440",\( 10 \),angles in a decagon add up to 1440,True_Correct,True,True,none,False
+map_15549,15549,32829,\( 2 y=24 \) What is the value of \( y \) ?,"Selected answer: \( 12 \)
+
+Explanation: i think this because 2y means 2 times y so i did the inverse to get 12",\( 12 \),i think this because 2y means 2 times y so i did the inverse to get 12,True_Correct,True,True,none,False
+map_24562,24562,33472,\( \frac{1}{3}+\frac{2}{5}= \),"Selected answer: \( \frac{11}{15} \)
+
+Explanation: i think this because if you convert to fifteenths you get 5 and 6 which is 11",\( \frac{11}{15} \),i think this because if you convert to fifteenths you get 5 and 6 which is 11,True_Correct,True,True,none,False
+map_20490,20490,32835,Which number is the greatest?,"Selected answer: \( 6.2 \)
+
+Explanation: 6.2 is more since it is 6 and 2/10",\( 6.2 \),6.2 is more since it is 6 and 2/10,True_Neither,True,False,none,False
+map_32,32,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{1}{3} \)
+
+Explanation: 1/3 is the simplest form of this shape.",\( \frac{1}{3} \),1/3 is the simplest form of this shape.,True_Neither,True,False,none,False
+map_35794,35794,109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?","Selected answer: Likely
+
+Explanation: 0.9 shows that the event occuring is likely to happen",Likely,0.9 shows that the event occuring is likely to happen,True_Neither,True,False,none,False
+map_10713,10713,31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 72 \)
+
+Explanation: of means X, so 3/5 of/X 120 = 72",\( 72 \),"of means X, so 3/5 of/X 120 = 72",True_Correct,True,True,none,False
+map_10312,10312,31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 72 \)
+
+Explanation: You have to do 3 times 120 then 5 divided by 360",\( 72 \),You have to do 3 times 120 then 5 divided by 360,True_Correct,True,True,none,False
+map_5934,5934,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{1}{12} \)
+
+Explanation: First we need to multiply the denominator by the whole number so 6x2=12 and we keep the 1 as a numerator so the answer is 1/12.",\( \frac{1}{12} \),First we need to multiply the denominator by the whole number so 6x2=12 and we keep the 1 as a numerator so the answer is 1/12.,True_Correct,True,True,none,False
+map_7771,7771,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{6}{2} \)
+
+Explanation: I know this because using the 'keep, change, flip'
+method it is 6/2",\( \frac{6}{2} \),"I know this because using the 'keep, change, flip'
+method it is 6/2",False_Misconception,False,False,SwapDividend,True
+map_11072,11072,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 3 \)
+
+Explanation: It says a on thee answer",\( 3 \),It says a on thee answer,False_Neither,False,False,none,False
+map_32235,32235,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( 3 \)
+
+Explanation: i think this is because two negative numbers make a positive number which then makes the sum 8-5=3.",\( 3 \),i think this is because two negative numbers make a positive number which then makes the sum 8-5=3.,False_Misconception,False,False,Positive,True
+map_17523,17523,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( 3 \frac{1}{3} \)
+
+Explanation: i know this because 2×5=10 and 10÷3=3r1",\( 3 \frac{1}{3} \),i know this because 2×5=10 and 10÷3=3r1,True_Correct,True,True,none,False
+map_12621,12621,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 6 \)
+
+Explanation: 6 is the value of a",\( 6 \),6 is the value of a,True_Neither,True,False,none,False
+map_19183,19183,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: 2/3 times 1/5=2/15 so the answer is 2/15.",\( \frac{2}{15} \),2/3 times 1/5=2/15 so the answer is 2/15.,False_Misconception,False,False,Inversion,True
+map_2834,2834,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{8} \)
+
+Explanation: because theirs eight and threee is shaded in",\( \frac{3}{8} \),because theirs eight and threee is shaded in,False_Neither,False,False,none,False
+map_6272,6272,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{1}{12} \)
+
+Explanation: I think this because 2 x 6 = 12 and 1 x 6= 6 but we are dividing so then 6/1=1 making it 1 over 12.",\( \frac{1}{12} \),I think this because 2 x 6 = 12 and 1 x 6= 6 but we are dividing so then 6/1=1 making it 1 over 12.,True_Correct,True,True,none,False
+map_5294,5294,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: because half of six is three because if you divide 2 by 6 it equals 3",\( 3 \),because half of six is three because if you divide 2 by 6 it equals 3,False_Misconception,False,False,Mult,True
+map_35913,35913,109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?","Selected answer: Likely
+
+Explanation: because it is not quite certain but there is over half probability it will happen",Likely,because it is not quite certain but there is over half probability it will happen,True_Correct,True,True,none,False
+map_7817,7817,31774,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{6}{2} \)
+
+Explanation: I'm sorry, but I didn't understand that.",\( \frac{6}{2} \),"I'm sorry, but I didn't understand that.",False_Neither,False,False,none,False
+map_1363,1363,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{1}{3} \)
+
+Explanation: There are 9 squares, three aren't shaded, or 3 out of 9 are not colored.",\( \frac{1}{3} \),"There are 9 squares, three aren't shaded, or 3 out of 9 are not colored.",True_Correct,True,True,none,False
+map_20081,20081,32835,Which number is the greatest?,"Selected answer: \( 6 \)
+
+Explanation: i think this is the answer because 6 is a whole number",\( 6 \),i think this is the answer because 6 is a whole number,False_Misconception,False,False,Whole_numbers_larger,True
+map_17682,17682,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( 3 \frac{1}{3} \)
+
+Explanation: i think this because 2/3x5= 10/3 which is the same as 3 1/3",\( 3 \frac{1}{3} \),i think this because 2/3x5= 10/3 which is the same as 3 1/3,True_Correct,True,True,none,False
+map_31069,31069,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( -3 \)
+
+Explanation: if you add two negative numbers together they always cancel to a positive.",\( -3 \),if you add two negative numbers together they always cancel to a positive.,True_Neither,True,False,none,False
+map_27543,27543,33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.","Selected answer: \( \frac{2}{3}-\frac{1}{3} \)
+
+Explanation: because you have to see what is renaming but you don't  take away the denominator",\( \frac{2}{3}-\frac{1}{3} \),because you have to see what is renaming but you don't  take away the denominator,False_Neither,False,False,none,False
+map_23399,23399,33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: i think that it is 9 because 3/8 of 24 is 9",\( 9 \),i think that it is 9 because 3/8 of 24 is 9,False_Misconception,False,False,Wrong_fraction,True
+map_3790,3790,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{9} \)
+
+Explanation: There are 9 peaces and 3 shaded.",\( \frac{3}{9} \),There are 9 peaces and 3 shaded.,False_Neither,False,False,none,False
+map_16820,16820,32833,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( 3 \frac{1}{3} \)
+
+Explanation: 3 1/3 is the mixed number fraction of 10 because 2x5 = 10.",\( 3 \frac{1}{3} \),3 1/3 is the mixed number fraction of 10 because 2x5 = 10.,True_Correct,True,True,none,False
+map_28515,28515,76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],"Selected answer: Not enough information
+
+Explanation: you meed more than 1 angle to work it out",Not enough information,you meed more than 1 angle to work it out,False_Misconception,False,False,Unknowable,True
+map_21968,21968,32835,Which number is the greatest?,"Selected answer: \( 6.2 \)
+
+Explanation: this is technically six point two zero which if you wish is twenty which is bigger than seven, zero and zero point zero one",\( 6.2 \),"this is technically six point two zero which if you wish is twenty which is bigger than seven, zero and zero point zero one",True_Correct,True,True,none,False
+map_2812,2812,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{8} \)
+
+Explanation: The answer is 1/3 because I counted all the triangles (there were 9) and 3 of them have NOT been shaded. So it was 3/9. The question asks for the fraction in it’s simplest form so it is 1/3",\( \frac{3}{8} \),The answer is 1/3 because I counted all the triangles (there were 9) and 3 of them have NOT been shaded. So it was 3/9. The question asks for the fraction in it’s simplest form so it is 1/3,False_Correct,False,True,none,False
+map_31760,31760,89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)","Selected answer: \( 13 \)
+
+Explanation: i think this because when two negatives meet together they become a positive, the answer will definitely not come out negative.",\( 13 \),"i think this because when two negatives meet together they become a positive, the answer will definitely not come out negative.",False_Misconception,False,False,Positive,True
+map_26590,26590,33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.","Selected answer: \( \frac{1}{3} \times \frac{2}{3} \)
+
+Explanation: because of times ""one thirdd of"" means times means ""because of means"" times times,",\( \frac{1}{3} \times \frac{2}{3} \),"because of times ""one thirdd of"" means times means ""because of means"" times times,",True_Correct,True,True,none,False
+map_35061,35061,104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?","Selected answer: \( 48 \) hours
+
+Explanation: as it’s less people to build for",\( 48 \) hours,as it’s less people to build for,True_Neither,True,False,none,False
+map_9073,9073,31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?","Selected answer: \( 72 \)
+
+Explanation: 120 divided by 5 and then times that answer by 3",\( 72 \),120 divided by 5 and then times that answer by 3,True_Correct,True,True,none,False
+map_2563,2563,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: There is 3 not shaded and 6 shades so it =3/6",\( \frac{3}{6} \),There is 3 not shaded and 6 shades so it =3/6,False_Misconception,False,False,WNB,True
+map_14405,14405,31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,"Selected answer: \( 9 \)
+
+Explanation: i worked it out on my white board",\( 9 \),i worked it out on my white board,False_Neither,False,False,none,False

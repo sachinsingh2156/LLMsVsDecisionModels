@@ -1,0 +1,7 @@
+map_category,n,correct_accuracy,tp,tn,fp,fn,pred_true_rate,mean_p_true,misconception_n,misconception_accuracy
+True_Correct,19,0.9473684210526315,18,0,0,1,0.9473684210526315,0.9368421052631577,19,0.9473684210526315
+False_Misconception,13,1.0,0,13,0,0,0.0,0.10846153846153847,13,0.38461538461538464
+False_Neither,9,1.0,0,9,0,0,0.0,0.09111111111111111,9,0.0
+True_Neither,7,1.0,7,0,0,0,1.0,0.8785714285714284,7,0.7142857142857143
+False_Correct,1,1.0,0,1,0,0,0.0,0.03,1,0.0
+True_Misconception,1,1.0,1,0,0,0,1.0,0.99,1,1.0

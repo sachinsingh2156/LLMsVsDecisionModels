@@ -1,0 +1,24 @@
+{
+  "started": "2026-10-27T13:16:07Z",
+  "slices": [
+    "map_500",
+    "mathdial_test"
+  ],
+  "providers": [
+    "qwen"
+  ],
+  "models": {
+    "typesafe": "jev-latest",
+    "gemini": "gemini-3.8-flash",
+    "clef_9b": "clef-flash:latest",
+    "clef_27b": "clef:latest",
+    "qwen": "qwen2.5:7b"
+  },
+  "gemini_thinking_level": "low",
+  "pricing": {
+    "usd_inr": 87.0,
+    "jev_usd_per_m_input": 0.042,
+    "gemini_usd_per_m_input": 0.75,
+    "gemini_usd_per_m_output": 3.75
+  }
+}

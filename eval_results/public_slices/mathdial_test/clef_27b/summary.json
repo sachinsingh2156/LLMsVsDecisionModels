@@ -1,0 +1,60 @@
+{
+  "slice": "mathdial_test",
+  "run_key": "clef_27b",
+  "provider": "clef",
+  "model": "clef:latest",
+  "finished_at": "2026-10-27T10:14:08Z",
+  "fx_inr_per_usd": 87.0,
+  "cost": {
+    "usd": 0.0,
+    "inr": 0.0,
+    "note": "Local Ollama model: no API bill. Electricity / GPU time not priced."
+  },
+  "metrics": {
+    "n_rows": 599,
+    "latency": {
+      "total_requests": 599,
+      "failed_requests": 0,
+      "avg_ms": 2050.257929883139,
+      "median_ms": 2553.5,
+      "p95_ms": 3052.5
+    },
+    "tokens": {
+      "avg_input_tokens": 366.2086811352254,
+      "avg_output_tokens": 0.0,
+      "avg_total_tokens": 366.2086811352254,
+      "sum_input_tokens": 219359,
+      "sum_output_tokens": 0,
+      "sum_cached_tokens": 73035,
+      "sum_total_tokens": 219359
+    },
+    "correctness": {
+      "n": 599,
+      "accuracy": 0.8631051752921536,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 517,
+      "fp": 82,
+      "fn": 0
+    },
+    "misconception_all_classes": null,
+    "misconception_labelled_only": null,
+    "has_misconception_vs_none": null,
+    "pred_correct_rate": 0.13689482470784642,
+    "mean_p_true": 0.19493252649768472
+  },
+  "sampling": "MAP slices are stratified by Category with a fixed seed, not the first N train rows. The first 50/500 MAP train rows are all True_* (correct MC answers), which would make correctness accuracy uninterpretable. MathDial uses the official test split (599 rows).",
+  "slice_manifest": {
+    "rows": 599,
+    "mix": {
+      "ground_truth_correct": {
+        "true": 0,
+        "false": 599
+      }
+    },
+    "csv": "mathdial_test.csv",
+    "questions": "mathdial_questions.json"
+  }
+}

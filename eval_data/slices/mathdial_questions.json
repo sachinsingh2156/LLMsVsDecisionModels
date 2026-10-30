@@ -1,0 +1,10 @@
+{
+  "correct": {
+    "type": "noul",
+    "instructions": "Decide whether the student's written solution is mathematically correct and complete for the question. The student has not yet been tutored.",
+    "criteria": {
+      "true": "The written solution reaches the right answer with valid reasoning.",
+      "false": "The written solution is incorrect, incomplete, or uses invalid reasoning."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+task,id,gt,pred,p_true,map_category,gt_misconception,pred_misconception,question,student_answer
+correct,map_21968,True,False,0.45,True_Correct,none,Longer_is_bigger,Which number is the greatest?,"Selected answer: \( 6.2 \)
+
+Explanation: this is technically six point two zero which if you wish is twenty which is bigger than seven, zero and zero point zero one"
+misconception_labelled,map_19024,Duplication,Wrong_fraction,0.08,False_Misconception,Duplication,Wrong_fraction,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{10}{15} \)
+
+Explanation: numerator x 5, then denominator x 5.
+2 x 5 = 10.
+3 x 5 = 15."
+misconception_labelled,map_19601,Inversion,Denominator_only_change,0.03,False_Misconception,Inversion,Denominator_only_change,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: so you do 3*5=15 and then i normally do 2* imaginary 1=2 and 2/15 is youre anser"
+misconception_labelled,map_32891,Wrong_term,none,0.27,False_Misconception,Wrong_term,none,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?","Selected answer: \( 22 \)
+
+Explanation: i think it is going up in fours."
+misconception_labelled,map_7771,SwapDividend,FlipChange,0.03,False_Misconception,SwapDividend,FlipChange,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( \frac{6}{2} \)
+
+Explanation: I know this because using the 'keep, change, flip'
+method it is 6/2"
+misconception_labelled,map_19183,Inversion,Wrong_term,0.02,False_Misconception,Inversion,Wrong_term,Calculate \( \frac{2}{3} \times 5 \),"Selected answer: \( \frac{2}{15} \)
+
+Explanation: 2/3 times 1/5=2/15 so the answer is 2/15."
+misconception_labelled,map_5294,Mult,Division,0.02,False_Misconception,Mult,Division,Calculate \( \frac{1}{2} \div 6 \),"Selected answer: \( 3 \)
+
+Explanation: because half of six is three because if you divide 2 by 6 it equals 3"
+misconception_labelled,map_23399,Wrong_fraction,Incomplete,0.1,False_Misconception,Wrong_fraction,Incomplete,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,"Selected answer: \( 9 \)
+
+Explanation: i think that it is 9 because 3/8 of 24 is 9"
+misconception_labelled,map_2563,WNB,Incomplete,0.17,False_Misconception,WNB,Incomplete,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],"Selected answer: \( \frac{3}{6} \)
+
+Explanation: There is 3 not shaded and 6 shades so it =3/6"

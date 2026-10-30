@@ -1,0 +1,59 @@
+{
+  "slice": "mathdial_test",
+  "provider": "typesafe",
+  "model": "jev-latest",
+  "finished_at": "2026-10-26T19:58:47Z",
+  "fx_inr_per_usd": 87.0,
+  "cost": {
+    "usd": 0.013504554000000002,
+    "inr": 1.1748961980000001,
+    "note": "Jev bills input tokens only at $0.042/MTok"
+  },
+  "metrics": {
+    "n_rows": 599,
+    "latency": {
+      "total_requests": 599,
+      "failed_requests": 0,
+      "avg_ms": 363.5278797996661,
+      "median_ms": 361.6,
+      "p95_ms": 402.44
+    },
+    "tokens": {
+      "avg_input_tokens": 536.7896494156928,
+      "avg_output_tokens": 20.0,
+      "avg_total_tokens": 556.7896494156928,
+      "sum_input_tokens": 321537,
+      "sum_output_tokens": 11980,
+      "sum_cached_tokens": 0,
+      "sum_total_tokens": 333517
+    },
+    "correctness": {
+      "n": 599,
+      "accuracy": 0.6327212020033389,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "tn": 379,
+      "fp": 220,
+      "fn": 0
+    },
+    "misconception_all_classes": null,
+    "misconception_labelled_only": null,
+    "has_misconception_vs_none": null,
+    "pred_correct_rate": 0.3672787979966611,
+    "mean_p_true": 0.4113522537562605
+  },
+  "sampling": "MAP slices are stratified by Category with a fixed seed, not the first N train rows. The first 50/500 MAP train rows are all True_* (correct MC answers), which would make correctness accuracy uninterpretable. MathDial uses the official test split (599 rows).",
+  "slice_manifest": {
+    "rows": 599,
+    "mix": {
+      "ground_truth_correct": {
+        "true": 0,
+        "false": 599
+      }
+    },
+    "csv": "mathdial_test.csv",
+    "questions": "mathdial_questions.json"
+  }
+}

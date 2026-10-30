@@ -1,0 +1,41 @@
+id,question,student_answer,ground_truth_correct,ground_truth_misconception
+1,What is 1/2 + 1/3?,2/5,false,add_numerators_denominators
+2,What is 1/2 + 1/3?,5/6,true,
+3,What is 1/4 + 1/4?,2/8,false,add_numerators_denominators
+4,What is 2/3 + 1/6?,5/6,true,
+5,What is 1/2 + 1/4?,2/6,false,add_numerators_denominators
+6,What is 1/3 + 1/4?,2/12,false,common_denominator_error
+7,What is 1/2 + 1/3?,1/6,false,common_denominator_error
+8,Which is larger: 1/3 or 1/4?,1/4 because 4 is bigger than 3,false,whole_number_reasoning
+9,What is 3/5 + 1/5?,4/5,true,
+10,Which is larger: 1/6 or 1/8?,1/8 because 8 is bigger,false,whole_number_reasoning
+11,What is 1/5 + 2/5?,3/5,true,
+12,What is 1/8 + 3/8?,4/16,false,add_numerators_denominators
+13,What is 2/7 + 3/7?,5/7,true,
+14,What is 1/6 + 1/3?,2/9,false,add_numerators_denominators
+15,What is 1/5 + 1/10?,2/10,false,common_denominator_error
+16,What is 3/4 + 1/12?,10/12,true,
+17,What is 1/2 + 2/8?,1,true,
+18,What is 2/5 + 1/5?,2/10,false,common_denominator_error
+19,What is 1/2 + 1/6?,2/8,false,add_numerators_denominators
+20,Which is larger: 2/5 or 3/5?,2/5 because 2 is smaller wait no 3/5 because 3 is bigger than 2,true,
+21,Which is larger: 2/9 or 2/7?,2/9 because 9 is bigger,false,whole_number_reasoning
+22,What is 4/9 + 2/9?,6/9,true,
+23,What is 1/4 + 1/6?,2/10,false,add_numerators_denominators
+24,What is 1/4 + 1/6?,2/24,false,common_denominator_error
+25,What is 5/8 + 1/8?,6/8,true,
+26,What is 1/2 × 1/3? Wait no: What is 1/2 + 1/3?,1/6,false,other
+27,What is 3/10 + 1/5?,4/15,false,add_numerators_denominators
+28,What is 3/10 + 1/5?,4/10,false,common_denominator_error
+29,What is 3/10 + 1/5?,1/2,true,
+30,Which is larger: 4/5 or 5/6?,5/6,true,
+31,Which is larger: 4/5 or 5/6?,4/5 because 4 and 5 come first,false,other
+32,What is 7/8 − 1/8?,6/8,true,
+33,What is 1/3 + 1/3 + 1/3?,3/9,false,add_numerators_denominators
+34,What is 1/3 + 1/3 + 1/3?,1,true,
+35,A pizza is cut into 8 slices. You eat 3 and a friend eats 2. What fraction is eaten?,5/8,true,
+36,A pizza is cut into 8 slices. You eat 3 and a friend eats 2. What fraction is eaten?,5/16,false,add_numerators_denominators
+37,Which is larger: 1/2 or 5/10?,they are equal,true,
+38,Which is larger: 1/2 or 5/10?,5/10 because 5 and 10 are bigger numbers,false,whole_number_reasoning
+39,What is 2/3 + 2/9?,8/9,true,
+40,What is 2/3 + 2/9?,4/12,false,add_numerators_denominators

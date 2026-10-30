@@ -1,0 +1,17 @@
+class,precision,recall,f1,support
+Duplication,0.0,0.0,0.0,1
+Additive,1.0,1.0,1.0,2
+Inversion,0.0,0.0,0.0,2
+Wrong_term,0.0,0.0,0.0,1
+SwapDividend,0.0,0.0,0.0,1
+Positive,1.0,1.0,1.0,2
+Mult,0.0,0.0,0.0,1
+Whole_numbers_larger,1.0,1.0,1.0,1
+Wrong_fraction,0.0,0.0,0.0,1
+Unknowable,1.0,1.0,1.0,1
+WNB,0.0,0.0,0.0,1
+Denominator_only_change,0.0,0.0,0.0,0
+none,0.0,0.0,0.0,0
+FlipChange,0.0,0.0,0.0,0
+Division,0.0,0.0,0.0,0
+Incomplete,0.0,0.0,0.0,0
